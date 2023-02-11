@@ -5,10 +5,12 @@
     height: 60px;
     padding-left: 25px;
     width:100%;
+    margin: 0;
     position: sticky;
     top: 0;
     width: 100%;   
 }
+
 h2{
     padding-top: 15px;
 }
